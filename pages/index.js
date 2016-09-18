@@ -16,22 +16,9 @@ export default class Sass extends React.Component {
             Product & Design
           </h1>
           <p>My name is <b>Archie Hicklin</b>. I'm a young designer and front-end developer from London, England currently living in Shenzhen, China. I love building great digital products and helping people design things they're proud of.</p>
-          <p>I'm currently working as a <a href="https://www.upwork.com/freelancers/~0150adea0a398630c1"><u>freelance</u></a> Product Designer. Aside from that, I founded <a href="http://artcreep.com"><u>Artcreep</u></a> and live, work and design from Loft42.</p>
+          <p>I'm currently working as a <u>Product Designer</u>.</p>
           <p> If you're on mobile - add me on <a href="http://weixin.qq.com/r/CWWBmabE1fuqreL69zAb"><u>WeChat</u></a>.</p>
-          <ul>
-            <li>
-              <Link to={prefixLink('/markdown/')}>Markdown</Link>
-            </li>
-            <li>
-              <Link to={prefixLink('/react/')}>JSX (React components)</Link>
-            </li>
-            <li>
-              <Link to={prefixLink('/coffee-react/')}>CJSX (Coffeescript React components)</Link>
-            </li>
-            <li>
-              <Link to={prefixLink('/toml/')}>TOML</Link>
-            </li>
-          </ul>
+
         </div>
       </DocumentTitle>
     )

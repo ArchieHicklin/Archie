@@ -53,7 +53,7 @@ module.exports = React.createClass({
             </svg>
             </Link>
             <Link
-              to={prefixLink('/')}
+              to={prefixLink('/contact/')}
               style={{
                 color: 'black',
                 textDecoration: 'none',
@@ -67,7 +67,7 @@ module.exports = React.createClass({
               Contact
             </Link>
             <Link
-              to={prefixLink('/react/')}
+              to={prefixLink('/portfolio/')}
               style={{
                 color: 'black',
                 textDecoration: 'none',
@@ -96,26 +96,23 @@ module.exports = React.createClass({
           style={{
             maxWidth: 570,
             padding: `${rhythm(1)} ${rhythm(1/2)}`,
-            paddingTop: 25,
+            paddingTop: 15,
             borderTop: '1px',
             borderBottom: '0px',
             borderLeft: '0px',
             borderRight: '0px',
             borderColor: '#f0f0f0',
             borderStyle: 'solid',
-          }}
-        >
-        <Link
-          to={prefixLink('/')}
-          style={{
             color: '#82888a',
-            marginTop: '25px',
+            marginTop: '5px',
             textDecoration: 'none',
             fontSize: '14px'
           }}
         >
-          © 2015 Archie Hicklin – Source.
-        </Link>
+
+          © 2016 Archie Hicklin – <a href="https://github.com/ArchieHicklin/Archie" target="_blank">Source</a>.
+          <p><b>PS:</b> If you want to you can sign up to my <a href="http://twitter.us14.list-manage.com/subscribe?u=5fc314faba3f423b41b009ff4&id=8b221197e7" target="_blank"><u>mailing list</u></a>. 🎈</p>
+
         </Container>
       </div>
     )
