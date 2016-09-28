@@ -50,6 +50,7 @@
     }
   },
   "dependencies": {
+    "babel-preset-stage-1": "^6.13.0",
     "gatsby": "^0.12.12"
   }
 }
