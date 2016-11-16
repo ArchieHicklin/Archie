@@ -36,7 +36,7 @@ export default class Sass extends React.Component {
               <a href="https://www.amazon.com/s?me=A3KD0OO9H1T8D3" target="_blank">Eco-Fused</a>
               </li>
             <li>
-              <a href="https://www.camorama.co" target="_blank">Camorama (Kickstarter)</a>
+              <a href="https://www.camorama.co" target="_blank">Camorama ($180k Kickstarter)</a>
             </li>
           </ul>
           <h3>
