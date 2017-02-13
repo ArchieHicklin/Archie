@@ -106,7 +106,7 @@ module.exports = React.createClass({
             color: '#82888a',
             marginTop: '5px',
             textDecoration: 'none',
-            fontSize: '14px'
+            fontSize: '10px'
           }}
         >
 
