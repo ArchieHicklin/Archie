@@ -1,14 +1,14 @@
 import Typography from 'typography'
 
 const options = {
-  baseFontSize: '18px',
+  baseFontSize: '14px',
   baseLineHeight: '27px',
-  headerFontFamily: '"Avenir Next", "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif',
-  bodyFontFamily: 'Avenir Next, serif',
-  bodyWeight: 400,
-  headerWeight: 600,
+  headerFontFamily: '"Helvetica", Helvetica, Arial, sans-serif',
+  bodyFontFamily: 'Helvetica, serif',
+  bodyWeight: 200,
+  headerWeight: 400,
   headerSize: 48,
-  boldWeight: 600,
+  boldWeight: 400,
   modularScales: [
     {
       scale: 'minor third',
