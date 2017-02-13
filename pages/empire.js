@@ -18,7 +18,7 @@ export default class Sass extends React.Component {
         <img src='http://res.cloudinary.com/dot40qz0k/image/upload/c_scale,q_100,w_800/v1486958082/black_x5grjg.png'/>
         <img src='http://res.cloudinary.com/dot40qz0k/image/upload/c_scale,q_100,w_800/v1486959755/Loops_wozdbm.png'/>
         <img src='http://res.cloudinary.com/dot40qz0k/image/upload/c_scale,q_100,w_800/v1486959738/Structure_yqk812.png'/>
-        <img src='http://res.cloudinary.com/dot40qz0k/image/upload/c_scale,q_100,w_800/v1486961965/sheared_final_jkmmyx.pngg'/>
+        <img src='http://res.cloudinary.com/dot40qz0k/image/upload/c_scale,q_100,w_800/v1486961965/sheared_final_jkmmyx.png'/>
         <img src='http://res.cloudinary.com/dot40qz0k/image/upload/c_scale,q_100,w_800/v1486959692/Font_cwspjb.png'/>
         <img src='http://res.cloudinary.com/dot40qz0k/image/upload/c_scale,q_100,w_800/v1486958128/gridded_ysjgrj.png'/>
         <img src='http://res.cloudinary.com/dot40qz0k/image/upload/c_scale,q_100,w_800/v1486959687/First_grad_paje9r.png'/>
