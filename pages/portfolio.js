@@ -12,35 +12,32 @@ export default class Sass extends React.Component {
     return (
       <DocumentTitle title={config.siteTitle}>
         <div>
-        <h1>
+        <h3>
           Side Projects & Experience
-        </h1>
-        <p>Portfolio available at request - feel free to send me an <a href="mailto:afphicklin@gmail.com?Subject=Hi%20there%20Archie%20I'm%20interested%20%20in%20your%20portfolio!">email</a>.
+        </h3>
+        <p>My design, product, and marketing portfolio available is available at request. Over the last four years I've worked on a number of projects - from UI and identity, to marketing automation, to building and maintaining full-blown web applications for clients. If for some reason you've come across this site and are interested in what I've been up to, or feel I might be a good fit to help you with whatever you're working on, feel free to send me an <a href="mailto:afphicklin@gmail.com?Subject=Hi%20there%20Archie%20I'm%20interested%20%20in%20your%20portfolio!">email</a>. If you'd just like to just shoot the shit - send me a DM on <a href="https://twitter.com/SupArchie" target="_blank">Twitter 👈</a> and I will respond pretty promptly! Below are just a few things I'm currently working on.
         </p>
         <h3>
-        Product Management
+        Current Product Development
       </h3>
       <ul>
         <li>
-          <a href="http://camkix.com" target="_blank">Camkix (Current)</a>
+          <a href="http://camkix.com" target="_blank">Camkix</a>
         </li>
       </ul>
           <h3>
-            Design
+            Current Side Projects
           </h3>
           <ul>
             <li>
-              <a href="https://www.producthunt.com/tech/meerstand" target="_blank">Meerstand</a>
+              <a href="https://www.mailroom.press" target="_blank">Mailroom</a>
             </li>
             <li>
-              <a href="https://www.amazon.com/s?me=A3KD0OO9H1T8D3" target="_blank">Eco-Fused</a>
-              </li>
-            <li>
-              <a href="https://www.camorama.co" target="_blank">Camorama ($180k Kickstarter)</a>
+              <a href="https://www.producthunt.com/@suparchie/made" target="_blank">Recent Product Hunt launches</a>
             </li>
           </ul>
           <h3>
-            Marketing
+            Current Marketing Projects
           </h3>
           <ul>
             <li>

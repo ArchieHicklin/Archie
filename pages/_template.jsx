@@ -20,7 +20,8 @@ module.exports = React.createClass({
             marginBottom: 120,
           }}
           style={{
-            background: '#f5f5f5',
+            background: '#fff',
+            borderBottom: '1px solid #dbdbdb',
           }}
         >
           <Container

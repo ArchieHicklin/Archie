@@ -149,15 +149,16 @@ code {
 }
 
 .rausch {
-  color: #ff5a5f;
+  color: blue;
   text-decoration: none;
   font-weight: bold;
 }
 
 a:-webkit-any-link {
-    color: #FF5A5F;
+    color: blue;
     text-decoration: none;
     cursor: auto;
+    font-weight: 400;
 }
 
 u, ins {
